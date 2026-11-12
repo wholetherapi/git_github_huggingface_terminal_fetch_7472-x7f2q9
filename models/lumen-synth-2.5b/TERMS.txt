@@ -1,0 +1,22 @@
+LUMEN SYNTH OPEN WEIGHTS TERMS v1.0
+
+1. Grant. Lumen Forge grants you a non-exclusive, worldwide, royalty-free right
+   to use, copy, and redistribute the Model and derivative weights, subject to
+   the restrictions below.
+
+2. Use-based restrictions. You may not use the Model or its Outputs for:
+   (a) surveillance of individuals or groups; (b) training or otherwise
+   improving a competing generative model; (c) generating material that
+   violates applicable law.
+
+3. Training data. The Data used to train the Model is not licensed under these
+   Terms. No rights in the training Data are granted here.
+
+4. Outputs. Lumen Forge claims no rights in the Output you generate using the
+   Model. You are responsible for your Output and for the terms of any data you
+   provide as input.
+
+5. Reciprocity. Redistribution of the Model or derivative weights must include
+   a copy of these Terms and must not remove the use-based restrictions.
+
+6. Termination. Rights terminate automatically on breach of these Terms.
